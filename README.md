@@ -21,6 +21,8 @@ Chaque profil utilise le dashboard pour :
 - prioriser
 - optimiser
 
+
+
 ## 🧠 Compétences mises en œuvre
 Dans ce projet, les compétences suivantes sont développées :
 
@@ -32,10 +34,15 @@ Dans ce projet, les compétences suivantes sont développées :
 
 
 
+
+
 ## 🛠 Outils utilisés
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - Données du cas pratique OpenClassrooms
+
+
+
 
 
 ## 📊 Contexte du cas pratique
@@ -43,10 +50,14 @@ Le projet est construit autour d’un cas concret :
 un consultant indépendant chargé de concevoir un dashboard d’aide à la décision
 sur les accords de prêts immobiliers pour un réseau d’agences bancaires.
 
+
 Le tableau de bord permet d’analyser :
 - Les décisions d’accord ou de refus de prêts
 - Les profils des demandeurs
 - Les indicateurs clés facilitant la prise de décision
+
+
+
 
 
 ## 📁 Fichiers du projet
