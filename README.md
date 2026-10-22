@@ -2,15 +2,15 @@
 
 Dashboard Power BI destiné aux conseillers et aux responsables d'agence d'un réseau bancaire, pour analyser les demandes de prêts immobiliers et harmoniser les décisions d'accord ou de refus.
 
-🧩 Problématique métier
+##🧩 Problématique métier
 
 Un réseau bancaire traite un grand nombre de demandes de prêts immobiliers, avec des critères multiples : profil du client, solvabilité, risque, performance de l'agence. Les décisions sont souvent longues, hétérogènes d'une agence à l'autre et difficiles à piloter à l'échelle du réseau.
 
-🎯 Objectif
+##🎯 Objectif
 
 Concevoir un outil permettant d'améliorer la rapidité, la cohérence et la qualité des décisions d'accord de prêts, avec une vision consolidée du réseau.
 
-👥 Utilisateurs cibles
+##👥 Utilisateurs cibles
 Conseillers bancaires : analyser un dossier et décider
 Responsables d'agence : piloter et comparer la performance de leur agence
 
@@ -38,7 +38,6 @@ Dans ce projet, les compétences suivantes sont développées :
 - Données du cas pratique OpenClassrooms
 
 
-
 ## 📊 Contexte du cas pratique
 Le projet est construit autour d’un cas concret :  
 un consultant indépendant chargé de concevoir un dashboard d’aide à la décision
@@ -49,10 +48,6 @@ Le tableau de bord permet d’analyser :
 - Les profils des demandeurs
 - Les indicateurs clés facilitant la prise de décision
 
-
-  
-
----
 
 ## 📁 Fichiers du projet
 - `*.pbix` : fichier Power BI contenant le tableau de bord
