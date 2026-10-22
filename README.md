@@ -1,48 +1,18 @@
+🏦 Crédit Breton – Dashboard d'aide à la décision pour l'accord de prêts immobiliers
 
- 
+Dashboard Power BI destiné aux conseillers et aux responsables d'agence d'un réseau bancaire, pour analyser les demandes de prêts immobiliers et harmoniser les décisions d'accord ou de refus.
 
- # Réalisez des dashboards avec Power BI
-je me suis mis dans la peau d’un consultant indépendant, dont la mission est d’élaborer un dashboard d’aide à la décision sur l’accord de prêts immobiliers, pour un réseau d’agences bancaires. Vous allez donc me suivre étape par étape à travers ce cas pratique.
+🧩 Problématique métier
 
-## 🎯 Objectif du projet
+Un réseau bancaire traite un grand nombre de demandes de prêts immobiliers, avec des critères multiples : profil du client, solvabilité, risque, performance de l'agence. Les décisions sont souvent longues, hétérogènes d'une agence à l'autre et difficiles à piloter à l'échelle du réseau.
 
-L’objectif principal est de concevoir un outil d’aide à la décision permettant d’améliorer la qualité, la rapidité et la cohérence des décisions d’accord de prêts immobiliers à l’échelle d’un réseau bancaire
+🎯 Objectif
 
+Concevoir un outil permettant d'améliorer la rapidité, la cohérence et la qualité des décisions d'accord de prêts, avec une vision consolidée du réseau.
 
-
-## 🧩 Problématique métier
-
-Les réseaux bancaires doivent traiter un volume important de demandes de prêts immobiliers, 
-avec des critères multiples (profil client, solvabilité, risque, performance agence, historique).
-
-Les décisions sont souvent :
-- longues
-- hétérogènes entre agences
-- difficiles à standardiser
-- peu lisibles pour le pilotage global
-
-➡️ Problème : difficulté à prendre des décisions rapides, cohérentes et pilotables à l’échelle du réseau.
-
-
-
-## 💼 Valeur métier / business
-
-Le dashboard permet :
-- d’harmoniser les critères de décision
-- de mieux piloter la performance des agences
-- de réduire les risques liés aux accords de prêts
-- d’améliorer la qualité des décisions
-- d’accélérer le traitement des dossiers
-- d’avoir une vision consolidée réseau
-
-➡️ Outil d’aide à la décision stratégique, pas seulement analytique.
-
-
-
-## 👥 Utilisateurs cibles
-
-- Conseillers bancaires
-- Responsables d’agence
+👥 Utilisateurs cibles
+Conseillers bancaires : analyser un dossier et décider
+Responsables d'agence : piloter et comparer la performance de leur agence
 
 Chaque profil utilise le dashboard pour :
 - décider
@@ -50,8 +20,6 @@ Chaque profil utilise le dashboard pour :
 - comparer
 - prioriser
 - optimiser
-
-
 
 ## 🧠 Compétences mises en œuvre
 Dans ce projet, les compétences suivantes sont développées :
@@ -117,5 +85,5 @@ Le tableau de bord permet d’analyser :
 ---
 
 ## ✍️ Auteur
-El_pacino_dz
+Zid Ahmed Moundji
 
